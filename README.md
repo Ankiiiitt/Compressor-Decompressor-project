@@ -11,11 +11,8 @@ By developing a Compressor-Decompressor project in Java, users can benefit from 
 
 ### Project snips
 
-<div align![Screenshot 2023-06-21 104442](https://github.com/Ankiiiitt/Compressor-Decompressor-project/assets/89211387/40f80ffd-9f2f-4c46-b633-0b470502fce3)
-="center">
-  
+# Output
 
-<div align="center">![Screenshot 2023-06-21 104516](https://github.com/Ankiiiitt/Compressor-Decompressor-project/assets/89211387/e528d689-e661-4173-9c8c-348fb9576b96)
+![Screenshot 2023-06-21 104442](https://github.com/Ankiiiitt/Compressor-Decompressor-project/assets/89211387/72cf4379-2fab-4e58-a7b2-2f7969f571e4)
 
-  
-</div>
+![Screenshot 2023-06-21 104516](https://github.com/Ankiiiitt/Compressor-Decompressor-project/assets/89211387/1991ddaf-77b0-4a21-8fcc-f5201874d5c7)
